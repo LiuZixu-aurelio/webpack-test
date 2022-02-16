@@ -1,0 +1,1 @@
+export var name4 = '这里是d';
